@@ -1,0 +1,30 @@
+{
+  "name": "sf2-random-game-select-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kautif/sf2-random-game-select-server.git"
+  },
+  "author": "Autif Kamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kautif/sf2-random-game-select-server/issues"
+  },
+  "homepage": "https://github.com/kautif/sf2-random-game-select-server#readme"
+}
