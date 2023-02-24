@@ -15,7 +15,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
